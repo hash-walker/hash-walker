@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Visualeet](https://github.com/Hamzafaraz1821/visualeet_buildspace_s5)
 
-- 🌱 I’m currently learning **0ython for AI agents**
+- 🌱 I’m currently learning **Python for AI agents**
 
 - 👯 I’m looking to collaborate on [GIKI BUS Ticket Reservation](https://github.com/JunaidSalim/GIKI_Bus_Ticket_Reservation_System)
 
