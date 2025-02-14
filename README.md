@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamza Faraz</h1>
+<h1 align="center">Hi 👋,I'm Hamza Faraz</h1>
 <h3 align="center">Building modern web apps with React and Golang, diving into SQL for backend, and gearing up to master Rust and Solana for Web 3.0 development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hash-walker&label=Profile%20views&color=0e75b6&style=flat" alt="hash-walker" /> </p>
