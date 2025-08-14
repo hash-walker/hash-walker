@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hash-walker" alt="hash-walker" /></a> </p>
 
-- 🔭 I’m currently working on [Visualeet](https://github.com/Hamzafaraz1821/visualeet_buildspace_s5)
+- 🔭 I’m currently working on [Visualeet](https://github.com/Hamzafaraz1821/blockchain_coded)
 
-- 🌱 I’m currently learning **Python for AI agents**
+- 🌱 I’m currently learning **gRPC for seamless web communication**
 
-- 👯 I’m looking to collaborate on [GIKI BUS Ticket Reservation](https://github.com/JunaidSalim/GIKI_Bus_Ticket_Reservation_System)
+- 👯 Build a great project with my team [GIKI BUS Ticket Reservation](https://github.com/JunaidSalim/GIKI_Bus_Ticket_Reservation_System)
 
 - 💬 Ask me about **DSA, AI, Networking, SQL**
 
