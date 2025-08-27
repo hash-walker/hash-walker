@@ -5,8 +5,11 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+React+%26+Go;Exploring+Rust+and+Solana;Always+learning+new+stacks+🚀" />
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer+%7C+React+%26+Go;Exploring+Rust+and+Solana;Always+learning+new+stacks+🚀)
+
 </p>
+
 
 ---
 
