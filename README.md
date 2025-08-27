@@ -3,8 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Hamza%20Faraz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- Typing effect -->
 <p align="center">
-  <i>Building modern web apps with React & Go, diving into SQL, and leveling up with Rust & Solana 🚀</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full-stack+Developer+%7C+React+%26+Go;Exploring+Rust+and+Solana;Always+learning+new+stacks+🚀" />
 </p>
 
 ---
@@ -20,7 +21,26 @@
 ---
 
 ### ⚙️ Tech Stack
-`React` · `Go` · `Node.js` · `PostgreSQL` · `MongoDB` · `Docker` · `Kubernetes` · `gRPC` · `Python` · `Rust` (soon) · `Solana` (soon)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" />
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.svg" height="40" />
+</p>
+
+<p align="center">
+  <!-- Blinking badges for flair -->
+  <img src="https://img.shields.io/badge/Code-Go-blue?logo=go&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&logoColor=white&style=for-the-badge&labelColor=black" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=black" />
+</p>
 
 ---
 
