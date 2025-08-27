@@ -13,35 +13,19 @@
 
 ---
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/vL4xYQJ/sporty-banner.png" alt="Hamza Faraz | Sporty Developer" />
-</p>
+## What I’m Up To  
 
-## 🏆 My Tech Playbook  
+🚀 **Building:** An RSS Aggregator (Go + React + PostgreSQL) — my way of taming the chaos of the web.  
 
-⚡ **Current Match:** Building an **RSS Aggregator** (Go + React + PostgreSQL) — keeping the feeds in check like a good midfield anchor.  
+🔧 **Learning:** gRPC — because simple APIs weren’t enough, I wanted streaming, contracts, and speed.  
 
-💪 **Training Regime:** Learning **gRPC** — fast passes, low latency, no wasted moves.  
+🚌 **Past Project:** A full-stack **Bus Ticketing System** for my university (Django + JazzCash integration).  
 
-🚌 **Previous Season Highlight:** Led the team project on a **Bus Ticketing System** (Django + JazzCash) — smooth rides, no fouls.  
+📚 **Talk Tech With Me About:** Algorithms, SQL internals, AI systems, networks, or why good abstractions outlive frameworks.  
 
-📖 **Favorite Drills:** Algorithms 🧩, SQL ⚙️, and distributed systems 🕸️ — the endurance training of computer science.  
+📩 **Reach Me At:** hamzafaraz1821@gmail.com  
 
-🎯 **Mindset:** Build clean, play fair, and always push for the next level.  
-
-📩 **Locker Room Contact:** hamzafaraz1821@gmail.com  
-
----
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-Playmaker-blue?style=for-the-badge&logo=go" />
-  <img src="https://img.shields.io/badge/React-Striker-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Postgres-Midfield-General-336791?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Django-Defender-092E20?style=for-the-badge&logo=django" />
-</p>
-
+🎯 **Random Truth:** I don’t hate you — stop assuming.  
 
 ---
 
