@@ -13,13 +13,35 @@
 
 ---
 
-### 🏎️ What I’m Up To
-- ⚡ Currently building: **RSS Aggregator** (Go + React + PostgreSQL)  
-- 🌱 Learning: **gRPC** for seamless service communication  
-- 👯 Past collab: [GIKI Bus Ticket Reservation System](https://github.com/JunaidSalim/GIKI_Bus_Ticket_Reservation_System)  
-- 💬 Ask me about: **DSA, SQL, AI, Networks**  
-- 📫 Reach out: **hamzafaraz1821@gmail.com**  
-- 🎲 Fun fact: *I don’t hate you — stop assuming.*  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/vL4xYQJ/sporty-banner.png" alt="Hamza Faraz | Sporty Developer" />
+</p>
+
+## 🏆 My Tech Playbook  
+
+⚡ **Current Match:** Building an **RSS Aggregator** (Go + React + PostgreSQL) — keeping the feeds in check like a good midfield anchor.  
+
+💪 **Training Regime:** Learning **gRPC** — fast passes, low latency, no wasted moves.  
+
+🚌 **Previous Season Highlight:** Led the team project on a **Bus Ticketing System** (Django + JazzCash) — smooth rides, no fouls.  
+
+📖 **Favorite Drills:** Algorithms 🧩, SQL ⚙️, and distributed systems 🕸️ — the endurance training of computer science.  
+
+🎯 **Mindset:** Build clean, play fair, and always push for the next level.  
+
+📩 **Locker Room Contact:** hamzafaraz1821@gmail.com  
+
+---
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-Playmaker-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/React-Striker-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Postgres-Midfield-General-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Django-Defender-092E20?style=for-the-badge&logo=django" />
+</p>
+
 
 ---
 
