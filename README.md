@@ -1,77 +1,208 @@
-<!-- Header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hamza%20Faraz&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Building%20systems%20that%20scale&descSize=18&descAlignY=55" />
-</p>
+<div align="center">
 
-<!-- Typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Django+%2B+Go;Building+Real-World+Systems;Clean+Code+%7C+Scalable+Architecture" />
-</p>
+<!-- Glitch-style header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=300&section=header&text=HAMZA%20FARAZ&fontSize=80&fontColor=00ff88&animation=fadeIn&stroke=00ff88&strokeWidth=2" />
 
----
+<!-- Matrix-style subtitle -->
+```
+ ██████╗ ██████╗ ██████╗ ███████╗    ██╗███████╗    ██████╗  ██████╗ ███████╗████████╗██████╗ ██╗   ██╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝    ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗╚██╗ ██╔╝
+██║     ██║   ██║██║  ██║█████╗      ██║███████╗    ██████╔╝██║   ██║█████╗     ██║   ██████╔╝ ╚████╔╝ 
+██║     ██║   ██║██║  ██║██╔══╝      ██║╚════██║    ██╔═══╝ ██║   ██║██╔══╝     ██║   ██╔══██╗  ╚██╔╝  
+╚██████╗╚██████╔╝██████╔╝███████╗    ██║███████║    ██║     ╚██████╔╝███████╗   ██║   ██║  ██║   ██║   
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   
+```
 
-## 🎯 Currently Building
+<br/>
 
-🚌 **Transport System** — Full-stack bus booking platform with dynamic scheduling, cascading selections, and payment integration (React + Go + Docker)
+<!-- Animated typing with neon effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+INITIALIZING+DEVELOPER+PROTOCOL...;%3E+SYSTEMS+ARCHITECT+%7C+FULL-STACK+ENGINEER;%3E+LOCATION%3A+SOMEWHERE+IN+THE+MATRIX" />
+</a>
 
-🔄 **RSS Aggregator** — News aggregation service built with Go, PostgreSQL, and concurrent feed fetching
-
-🧠 **Learning:** Rust, gRPC, and distributed systems
-
----
-
-## 💻 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,go,python,django,postgres,docker,git,linux&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-1.21-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-5-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-15-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-24-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## 📊 Stats
+<img align="right" src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="350" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hash-walker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hash-walker&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" height="165"/>
-</p>
+### `> SYSTEM.STATUS`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-walker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff" height="130"/>
-</p>
+```javascript
+const hamza = {
+  status: "ONLINE",
+  role: "Full-Stack Developer",
+  code: ["TypeScript", "Python", "Go", "Rust"],
+  
+  currentMission: {
+    name: "Transport System",
+    stack: ["React", "Django", "Docker"],
+    status: "IN_PROGRESS ████████░░ 80%"
+  },
+  
+  sideMission: {
+    name: "RSS Aggregator", 
+    stack: ["Go", "PostgreSQL"],
+    status: "DEPLOYED ✓"
+  },
+  
+  exploring: ["gRPC", "Distributed Systems", "Rust"],
+  
+  motto: "Build systems, not just apps"
+};
+```
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **🚌 Transport System** | University bus booking with real-time scheduling | React, Django, Docker, JazzCash |
-| **📰 RSS Aggregator** | Concurrent feed aggregator | Go, PostgreSQL, Chi |
+### `> TECH.ARSENAL`
+
+<br/>
+
+<!-- Hexagonal skill display -->
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br/><sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br/><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br/><sub><b>Go</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br/><sub><b>Django</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br/><sub><b>Rust</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br/><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br/><sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br/><sub><b>Redis</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="mailto:hamzafaraz1821@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hamzafaraz1821@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### `> MISSION.LOG`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hash-walker&color=4FC3F7&style=flat-square&label=Profile+Views" />
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+**🚌 TRANSPORT SYSTEM** `[ACTIVE]`
+```
+├── React + TypeScript Frontend
+├── Django REST Backend  
+├── Docker Containerized
+├── JazzCash Payment Integration
+└── Real-time Bus Scheduling
+```
+</td>
+<td width="50%">
+
+**📡 RSS AGGREGATOR** `[DEPLOYED]`
+```
+├── Go Backend (Chi Router)
+├── PostgreSQL Database
+├── Concurrent Feed Fetching
+├── RESTful API
+└── Background Job Processing
+```
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### `> STATS.RENDER`
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hash-walker&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hash-walker&hide_border=true&background=0d1117&ring=00ff88&fire=ff6b6b&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=00ff88&dates=555555" height="180"/>
+
+<br/><br/>
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hash-walker&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `> CONNECT.PROTOCOL`
+
+<br/>
+
+[![Email](https://img.shields.io/badge/TRANSMIT-hamzafaraz1821@gmail.com-00ff88?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=0d1117)](mailto:hamzafaraz1821@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=hash-walker&color=00ff88&style=for-the-badge&label=PROFILE+SCANS"/>
+
+<br/><br/>
+
+```
+> "I don't build apps. I architect systems."
+```
+
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer"/>
+
