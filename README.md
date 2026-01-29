@@ -140,12 +140,12 @@ Experience:
 │                                      │
 │  STACK:                              │
 │  → React + TypeScript                │
-│  → Django REST Framework             │
-│  → PostgreSQL + Redis                │
+│  → Go (goose, sqlc, chi              │
+│  → PostgreSQL                        │
 │  → Docker Compose                    │
 │  → JazzCash Payments                 │
-│                                      │
-│  STATUS: ████████░░ 80%              │
+│  → Secure wallet                     │
+│  STATUS: ████████ 100%               │
 └──────────────────────────────────────┘
 ```
 
