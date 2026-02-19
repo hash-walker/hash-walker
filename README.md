@@ -66,8 +66,7 @@
 
 ```yaml
 Experience:
-  ├─ React/TypeScript    ██████████  
-  ├─ Python/Django       █████████░  
+  ├─ React/TypeScript    ██████████   
   ├─ Go                  ████████░░  
   ├─ PostgreSQL          █████████░  
   ├─ Docker              ████████░░  
@@ -96,7 +95,6 @@ Experience:
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=ts" width="45" /><br/><sub>TypeScript</sub></td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=go" width="45" /><br/><sub>Go</sub></td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="45" /><br/><sub>Python</sub></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" width="45" /><br/><sub>Django</sub></td>
 <td align="center" width="100"><img src="https://skillicons.dev/icons?i=rust" width="45" /><br/><sub>Rust</sub></td>
 </tr>
 <tr>
@@ -140,7 +138,7 @@ Experience:
 │                                      │
 │  STACK:                              │
 │  → React + TypeScript                │
-│  → Go (goose, sqlc, chi              │
+│  → Go (goose, sqlc, chi )            │
 │  → PostgreSQL                        │
 │  → Docker Compose                    │
 │  → JazzCash Payments                 │
